@@ -19,6 +19,6 @@ d1 = datetime(year = 1991, month = 11, day = 16)
 
 So, we have as result : 1991-11-16
 
-1. Attributes
+### 1. Attributes
    .year,.month,.day - to get year, month and day in current date
    To know more about features of this attributes, pls. check Jupyter notebook, which is called **'Useful functions'**
