@@ -11,7 +11,7 @@ Datatime represents many functions to make applications more attractive for user
 
 ## 2. Methods and attributes
 
-Defenition:
+**Defenition**:
 
 from datetime import datetime
 
@@ -20,4 +20,5 @@ d1 = datetime(year = 1991, month = 11, day = 16)
 So, we have as result : 1991-11-16
 
 1. Attributes
-   .year,.month,.days
+   .year,.month,.day - to get year, month and day in current date
+   To know more about features of this attributes, pls. check Jupyter notebook, which is called **'Useful functions'**
